@@ -1,3 +1,19 @@
+/*fonts*/
+h1 {
+	font-family: 'Architects Daughter', cursive;
+}
+
+
+.head, .foot{
+	background-color:#445566 ;
+}
+
+.container {
+	font-family: 'Raleway', sans-serif;
+	background-color: #AAAAAA;
+}
+/*Social Icons*/
+
 i {
 	font-size: 50px;
 	color: black;
