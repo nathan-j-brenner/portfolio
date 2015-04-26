@@ -4,8 +4,9 @@ h1 {
 }
 
 
-.head, .foot{
-	background-color:#445566 ;
+footer {
+	background-color:#333;
+	color: #fff;
 }
 
 .container {
